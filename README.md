@@ -1,0 +1,56 @@
+# PrivacyPetVitality
+Privacy rules of PetVitality
+
+Privacy Policy for PetVitality
+Last updated: [Date]
+
+Welcome to PetVitality, operated by Lyssa AS ("us", "we", or "our"). Your privacy is of paramount importance to us. This privacy policy explains how we collect, use, and share information from PetVitality users ("you") in accordance with the General Data Protection Regulation (GDPR).
+
+By using our app, you agree to the collection and use of information in accordance with this policy. If you have any questions or concerns, please contact us at dyrebokaservice@gmail.com.
+
+Information Collection and Use
+We collect several different types of information for various purposes to provide and improve our service to you.
+
+Types of Data Collected
+Personal Data
+
+While using our app, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include:
+
+Email address
+Username
+Social media login data (Google login)
+Collection Methods
+Your data is collected through account creation and profile creation processes.
+
+Purpose of Data Collection
+Your data is collected for authentication purposes and to enhance user experience.
+
+Data Sharing and Disclosure
+We do not share your data with third parties except as required by law.
+
+Consent
+Consent to collect data is obtained through an agreement checkbox at the time of account creation.
+
+Your Rights Under GDPR
+You have the right to access, update, or delete your information at any time. Requests can be made by emailing dyrebokaservice@gmail.com. Upon account deletion, all associated data will be removed.
+
+Data Security
+We strive to use commercially acceptable means to protect your Personal Data, utilizing standard encryption and Google security rules (Google Firebase/Storage).
+
+Data Retention
+Your Personal Data is retained as long as you have an active account with us.
+
+Children's Privacy
+Our app does not knowingly collect personal information from children under the age of 16.
+
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and informing you via email.
+
+Contact Us
+If you have any questions about this Privacy Policy, please contact us:
+
+Email: dyrebokaservice@gmail.com
+Address: Flåten 26, 6884, Øvre Årdal, Norway
+Data Protection Officer: fredrikjohansen01@gmail.com
+Additional Information Regarding Google Analytics
+Our service uses Google Analytics to collect and analyze the use of our service. This data is shared with Google for that purpose. We use the data collected to track and monitor the use of our service. 
