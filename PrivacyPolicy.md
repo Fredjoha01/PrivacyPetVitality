@@ -2,7 +2,7 @@
 Privacy rules of PetVitality
 
 Privacy Policy for PetVitality
-Last updated: [Date]
+Last updated: 07.03.2024.
 
 Welcome to PetVitality, operated by Lyssa AS ("us", "we", or "our"). Your privacy is of paramount importance to us. This privacy policy explains how we collect, use, and share information from PetVitality users ("you") in accordance with the General Data Protection Regulation (GDPR).
 
